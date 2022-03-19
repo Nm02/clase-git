@@ -1,2 +1,2 @@
 print("gg")
-print("gg")
+
